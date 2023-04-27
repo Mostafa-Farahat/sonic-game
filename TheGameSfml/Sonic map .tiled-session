@@ -1,0 +1,29 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "/Users/moaaz28/ground.tsx": {
+            "scaleInDock": 1
+        },
+        "SonicLevel2.tsx": {
+            "scaleInDock": 0.3193,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Volumes/[C] Windows 11 (1).hidden/Users/moaaz28/source/repos/SFML/SFML",
+    "map.height": 15,
+    "map.width": 60,
+    "openFiles": [
+    ],
+    "project": "Sonic map .tiled-project",
+    "recentFiles": [
+        "SonicLevel2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
